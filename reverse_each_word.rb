@@ -1,7 +1,7 @@
 reverse_each_word(array)
-def  greetings (hello there)
-  
-puts ("Hello there, and how are you?")
+def  greetings = (hello there)
+  reverse_each_word.collect do |greetings|
+puts ("Hello there")
 
 
   
